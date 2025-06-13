@@ -1,0 +1,26 @@
+CandidateID,Name,Skills,Needs,Location
+101,John Doe,"Python, Data Analysis",Wheelchair Access,Punggol
+102,Maria Garcia,"Design, Creativity",Remote Work,Sengkang
+103,Alex Chen,"Teaching, Leadership",Flexible Hours,Buangkok
+104,Sarah Williams,"Communication, Teamwork",Sign Language Support,Hougang
+105,Priya Singh,"Project Management, Agile",Ergonomic Workspace,Kovan
+106,Wei Tan,"Java, Spring Boot",Assistive Technology,Serangoon
+107,Nurul Aisyah,"UI/UX, Figma",Visual Aid,AngMoKio
+108,David Lim,"Marketing, SEO",Quiet Environment,PasirRis
+109,Siti Rahman,"Finance, Excel",Service Animal Friendly,Tampines
+110,Benjamin Lee,"Customer Service, CRM",Accessible Restrooms,Orchard
+111,Rachel Ng,"Javascript, React",Remote Work,ChinaTown
+112,Samuel Ong,"Copywriting, Editing",Flexible Hours,LittleIndia
+113,Mei Chen,"Machine Learning, AI",Wheelchair Access,Jurong
+114,Arjun Kumar,"Cloud Computing, AWS",Sign Language Support,Woodlands
+115,Fiona Goh,"Business Analysis, Strategy",Ergonomic Workspace,Yishun
+116,Hannah Lim,"SQL, Database",Assistive Technology,Punggol
+117,Daniel Tan,"Public Speaking, Training",Visual Aid,Sengkang
+118,Aisha Binte,"Social Media, Branding",Quiet Environment,Buangkok
+119,Marcus Teo,"C++, Embedded Systems",Service Animal Friendly,Hougang
+120,Jasmine Koh,"Legal Research, Compliance",Accessible Restrooms,Kovan
+121,Zhi Wei,"Event Planning, Coordination",Remote Work,Serangoon
+122,Suresh Nair,"Supply Chain, Logistics",Flexible Hours,AngMoKio
+123,Liyana Ahmad,"Research, Experimentation",Wheelchair Access,PasirRis
+124,Kelvin Chua,"Technical Support, Troubleshooting",Sign Language Support,Tampines
+125,Emily Wong,"Digital Marketing, SEM",Ergonomic Workspace,Orchard
